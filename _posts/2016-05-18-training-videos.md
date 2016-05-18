@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Training videos
-datePublished: '2016-05-18T14:29:45.497Z'
-dateModified: '2016-05-18T14:29:07.016Z'
+datePublished: '2016-05-18T14:33:43.237Z'
+dateModified: '2016-05-18T14:31:51.279Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-training-videos.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-training-videos.md
 url: training-videos/index.html
 _type: Article
 
