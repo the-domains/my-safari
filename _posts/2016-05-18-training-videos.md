@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Training videos
-datePublished: '2016-05-18T14:33:43.237Z'
-dateModified: '2016-05-18T14:31:51.279Z'
+datePublished: '2016-05-18T14:41:49.696Z'
+dateModified: '2016-05-18T14:40:17.480Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-training-videos.md
