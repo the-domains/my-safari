@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Testimonies
-datePublished: '2016-05-19T13:40:52.014Z'
-dateModified: '2016-05-19T13:40:46.258Z'
-authors: []
-publisher: null
+datePublished: '2016-05-19T15:53:47.972Z'
+dateModified: '2016-05-19T15:49:16.937Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-19-testimonies.md
+authors: []
+publisher: null
+starred: false
 url: testimonies/index.html
 _type: Article
 
 ---
 Testimonies
 
-The video is wonderful, because you can actually SEE! It's a lot easier visually to find out the best way to manage a person with certain behaviours than it is to read it. Face to face, living with a person is much better than a written format. Burnadette Beasley NSW Department of Family & community Services
+You can rewind, you can fast forward, you can go to the bits that you missed, you can go to the bits that are most important. It's a lasting piece of work that anyone can go to at any point. Reading a document is one thing, but actually seeing it put into practice in everyday situations, you can't really do better than that. Sam Gibson Speech Pathologist
