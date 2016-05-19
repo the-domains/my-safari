@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Testimonies
-datePublished: '2016-05-19T15:59:31.784Z'
-dateModified: '2016-05-19T15:54:50.090Z'
+datePublished: '2016-05-19T15:59:39.817Z'
+dateModified: '2016-05-19T15:59:37.210Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-testimonies.md
